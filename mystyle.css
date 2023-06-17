@@ -1,0 +1,20 @@
+/* this is external style*/
+
+p{font-size: 24px; color: olivedrab;background-color: beige;}
+
+#para1{color: blue; background-color: azure;margin: 15px;padding: 25px;}
+
+#para2{color: teal;background-image: url(passport.png); background-size: contain ;
+    background-position: center; }
+
+#para3{color:mediumpurple; border-width: 5px; border-style:dotted ;border-radius: 10px;
+    border-color: rgba(128, 0, 128, 0.313);}
+
+#para4{color: royalblue;}
+
+#para5{color: palevioletred;}
+
+.font1{font-size: 15px;font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;font-weight: ;}
+
+body{ border-color: yellowgreen; border-width: 1px;border-style: solid;margin: 30px; padding: 20px;}
+
